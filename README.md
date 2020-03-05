@@ -27,5 +27,5 @@ Create the function of create_user_item_matrix to pivot the df dataframe. The ro
 ## V. Matrix Factorization <br/>
 Use SVD method to conduct matrix factorization and make article recommendations to the users on the IBM Watson Studio platform.<br/>
 
-## Licensing, Authors, Acknowledgements
+# Licensing, Authors, Acknowledgements
 This project is licensed under the terms of the MIT license. Credits must be given to IBM for providing the original datasets of the info of articles and users.
