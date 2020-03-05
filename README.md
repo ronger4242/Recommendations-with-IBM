@@ -1,5 +1,5 @@
 # Recommendations-with-IBM
-This project is part of the Data Science Nanodegree by Udacity. It features an important collaboration with IBM, the provider of the dataset. The aim is to develop a recommendation engine and suggest new articles to the IBM Watson Community users.
+This project is part of the Data Science Nanodegree by Udacity. The goal is to develop a recommendation engine using rank-based, user-user based, and matrix factorization, and suggest new articles to the IBM Watson Community users.
 This project has four parts:<br/>
 ## I. Exploratory Data Analysis<br/>
 Find out the distribution of articles a user interacts within the dataset and provide a visual and descriptive statistics.
