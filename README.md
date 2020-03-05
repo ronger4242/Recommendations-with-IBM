@@ -1,5 +1,15 @@
 # Recommendations-with-IBM
-This project is part of the Data Science Nanodegree by Udacity. The goal is to develop a recommendation engine using rank-based, user-user based, and matrix factorization, and suggest new articles to the IBM Watson Community users.
+This is the third project of Udacity Nano degree in Data Science. 
+# Installation
+Python 3.x is required to run this Project. The following libraries are used:
+* Pandas
+* Numpy
+* Matplotlib
+* Pickle
+
+# Project Motivation
+The goal is to develop a recommendation engine using rank-based, user-user based, and matrix factorization, and suggest new articles to the IBM Watson Community users.
+# File Description
 This project has four parts:<br/>
 ## I. Exploratory Data Analysis<br/>
 Find out the distribution of articles a user interacts within the dataset and provide a visual and descriptive statistics.
@@ -16,3 +26,6 @@ Create the function of create_user_item_matrix to pivot the df dataframe. The ro
 
 ## V. Matrix Factorization <br/>
 Use SVD method to conduct matrix factorization and make article recommendations to the users on the IBM Watson Studio platform.<br/>
+
+## Licensing, Authors, Acknowledgements
+This project is licensed under the terms of the MIT license. Credits must be given to IBM for providing the original datasets of the info of articles and users.
